@@ -1,0 +1,6 @@
+{
+  "name": "Event Booking Website",
+  "description": "An immersive event booking platform with live countdown animations, interactive scheduling timelines, custom ticket builders, responsive media galleries, and safe checkout state management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
